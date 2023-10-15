@@ -1,5 +1,5 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "Starter Flow Template Workflow",
+    "description": "This is the workflow template that is created in the .github repo which is shared with all repos in the organisation",
     "iconName": "example-icon"
 }
